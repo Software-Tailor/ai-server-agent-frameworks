@@ -1,0 +1,8 @@
+# Install only the frameworks you want to try.
+langchain-openai>=1.0
+langgraph>=1.0
+llama-index-core>=0.14
+llama-index-llms-openai-like>=0.8
+pydantic-ai-slim[openai]>=2.0
+openai-agents>=0.20
+smolagents>=1.26
