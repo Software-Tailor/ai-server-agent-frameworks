@@ -16,7 +16,7 @@ call, the framework ran the tool, sent the result back, and the model used it.
 | **OpenAI Agents SDK** (`OpenAIChatCompletionsModel`) | [`python/openai_agents_sdk.py`](python/openai_agents_sdk.py) | ✅ pass |
 | **smolagents** (`ToolCallingAgent`) | [`python/smolagents_agent.py`](python/smolagents_agent.py) | ⚠️ 4 of 5 runs (see below) |
 
-Tested with AI Server 2.2.5 and model `enginea/qwen3/8b`, using langchain-openai 1.6, langgraph 1.2,
+Tested with AI Server 2.2.5 (development build; the Store release is 2.2.4) and model `enginea/qwen3/8b`, using langchain-openai 1.6, langgraph 1.2,
 llama-index-core 0.14, pydantic-ai-slim 2.31, openai-agents 0.20 and smolagents 1.26.
 
 ## Run
