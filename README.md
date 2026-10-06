@@ -1,7 +1,7 @@
 # AI Server with agent frameworks
 
 The same tool-using agent in each popular Python agent framework, pointed at
-**[Software Tailor AI Server](https://softwaretailor.com/docs/ai-server/index.htm)**. That gives you
+**[Software Tailor AI Server](https://softwaretailor.com/docs/ai-server/)**. That gives you
 private, on-premises models behind the framework you already use.
 
 Each example gives the agent one tool (`get_weather`) that returns a unique token. The example passes only if
